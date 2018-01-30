@@ -1,0 +1,20 @@
+CREATE TABLE  `games` (
+`assists` INT NOT NULL ,
+`carrytime` DOUBLE NOT NULL ,
+`chances` INT NOT NULL ,
+`enemy_KOs` INT NOT NULL ,
+`goals` INT NOT NULL ,
+`intercepts` INT NOT NULL ,
+`ip` TEXT NOT NULL ,
+`lines` INT NOT NULL ,
+`losses` INT NOT NULL ,
+`name` TEXT NOT NULL ,
+`own_KOs` INT NOT NULL ,
+`own_goals` INT NOT NULL ,
+`passes` INT NOT NULL ,
+`ping` INT NOT NULL ,
+`save_fails` INT NOT NULL ,
+`team` TEXT NOT NULL ,
+`touches` INT NOT NULL ,
+`gameid` BIGINT NOT NULL
+) ENGINE = MYISAM ;

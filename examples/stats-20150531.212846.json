@@ -1,0 +1,14 @@
+{"red_score":7,"blue_score":7, "players":[
+{"ip":"1.2.3.4","name":"hundredeighty7","team":"blue","ping":60,"goals":0,"own_goals":0,"assists":0,"touches":44,"passes":32,"losses":12,"carrytime":102.4587,"intercepts":20,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Koji","team":"red","ping":100,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"faux","team":"blue","ping":72,"goals":2,"own_goals":0,"assists":0,"touches":60,"passes":39,"losses":18,"carrytime":117.3107,"intercepts":13,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"ChrisX2","team":"blue","ping":48,"goals":1,"own_goals":0,"assists":0,"touches":43,"passes":29,"losses":13,"carrytime":53.4396,"intercepts":17,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Billjet","team":"blue","ping":60,"goals":4,"own_goals":0,"assists":0,"touches":49,"passes":26,"losses":19,"carrytime":80.5625,"intercepts":12,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Welshy","team":"red","ping":52,"goals":0,"own_goals":0,"assists":0,"touches":23,"passes":14,"losses":9,"carrytime":32.0371,"intercepts":8,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"PipWander","team":"red","ping":48,"goals":3,"own_goals":0,"assists":0,"touches":52,"passes":23,"losses":26,"carrytime":60.6812,"intercepts":26,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"mael","team":"red","ping":56,"goals":3,"own_goals":0,"assists":0,"touches":56,"passes":29,"losses":24,"carrytime":114.4592,"intercepts":23,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Leech","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Shadow","team":"red","ping":60,"goals":0,"own_goals":0,"assists":0,"touches":26,"passes":15,"losses":11,"carrytime":22.3704,"intercepts":20,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"MLG","team":"blue","ping":44,"goals":0,"own_goals":0,"assists":0,"touches":41,"passes":26,"losses":15,"carrytime":50.1078,"intercepts":23,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Hobo","team":"red","ping":40,"goals":1,"own_goals":0,"assists":0,"touches":19,"passes":11,"losses":7,"carrytime":15.1845,"intercepts":7,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+]}

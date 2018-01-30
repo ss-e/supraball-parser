@@ -1,0 +1,16 @@
+{"red_score":2,"blue_score":2, "players":[
+{"ip":"1.2.3.4","name":"Solomon","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Revan","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Billjet","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"ecks dee","team":"red","ping":44,"goals":0,"own_goals":0,"assists":0,"touches":34,"passes":23,"losses":10,"carrytime":56.3538,"intercepts":25,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Jenkemman","team":"red","ping":28,"goals":0,"own_goals":0,"assists":0,"touches":38,"passes":26,"losses":12,"carrytime":55.6115,"intercepts":14,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Elioca","team":"red","ping":76,"goals":1,"own_goals":0,"assists":0,"touches":59,"passes":33,"losses":25,"carrytime":72.0033,"intercepts":22,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Welshy","team":"red","ping":32,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Zyzzyvas","team":"blue","ping":116,"goals":2,"own_goals":0,"assists":0,"touches":40,"passes":20,"losses":18,"carrytime":68.2297,"intercepts":14,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"rath","team":"red","ping":68,"goals":0,"own_goals":0,"assists":0,"touches":53,"passes":37,"losses":16,"carrytime":82.8765,"intercepts":13,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Esoteric","team":"blue","ping":64,"goals":0,"own_goals":0,"assists":0,"touches":66,"passes":28,"losses":38,"carrytime":92.5524,"intercepts":33,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Lux","team":"red","ping":56,"goals":1,"own_goals":0,"assists":0,"touches":73,"passes":31,"losses":41,"carrytime":75.4451,"intercepts":33,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"pLif!","team":"blue","ping":52,"goals":0,"own_goals":0,"assists":0,"touches":26,"passes":11,"losses":15,"carrytime":20.0137,"intercepts":17,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Fuze","team":"blue","ping":68,"goals":0,"own_goals":0,"assists":0,"touches":39,"passes":22,"losses":17,"carrytime":63.8386,"intercepts":12,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"bfp.OLD","team":"blue","ping":80,"goals":0,"own_goals":0,"assists":0,"touches":46,"passes":29,"losses":17,"carrytime":97.0989,"intercepts":31,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+]}

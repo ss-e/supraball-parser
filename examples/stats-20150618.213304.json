@@ -1,0 +1,13 @@
+{"red_score":5,"blue_score":1, "players":[
+{"ip":"1.2.3.4","name":"Billjet","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Sixele","team":"red","ping":60,"goals":0,"own_goals":0,"assists":0,"touches":26,"passes":23,"losses":3,"carrytime":55.3601,"intercepts":7,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Kyp","team":"red","ping":44,"goals":0,"own_goals":0,"assists":0,"touches":46,"passes":34,"losses":11,"carrytime":80.1812,"intercepts":31,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"e!","team":"red","ping":48,"goals":0,"own_goals":0,"assists":0,"touches":38,"passes":20,"losses":18,"carrytime":61.6648,"intercepts":8,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Cswic","team":"blue","ping":36,"goals":0,"own_goals":0,"assists":0,"touches":36,"passes":20,"losses":15,"carrytime":50.1101,"intercepts":14,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":1,"chances":0}
+,{"ip":"1.2.3.4","name":"PipWander","team":"blue","ping":44,"goals":1,"own_goals":0,"assists":0,"touches":44,"passes":24,"losses":19,"carrytime":83.9536,"intercepts":18,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Mr.Scrubs","team":"red","ping":52,"goals":3,"own_goals":0,"assists":0,"touches":51,"passes":27,"losses":22,"carrytime":82.1970,"intercepts":18,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Shadow","team":"blue","ping":60,"goals":0,"own_goals":0,"assists":0,"touches":34,"passes":20,"losses":14,"carrytime":22.7349,"intercepts":27,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Bakes","team":"red","ping":44,"goals":2,"own_goals":0,"assists":0,"touches":50,"passes":28,"losses":20,"carrytime":101.3440,"intercepts":15,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"mael","team":"blue","ping":48,"goals":0,"own_goals":0,"assists":0,"touches":38,"passes":17,"losses":21,"carrytime":65.7896,"intercepts":10,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Welshy","team":"blue","ping":44,"goals":0,"own_goals":0,"assists":0,"touches":30,"passes":21,"losses":9,"carrytime":62.9067,"intercepts":11,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+]}

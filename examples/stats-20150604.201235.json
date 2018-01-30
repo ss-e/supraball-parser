@@ -1,0 +1,14 @@
+{"red_score":11,"blue_score":3, "players":[
+{"ip":"1.2.3.4","name":"Welshy","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Revan","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Billjet","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Esoteric","team":"blue","ping":68,"goals":1,"own_goals":0,"assists":0,"touches":60,"passes":33,"losses":26,"carrytime":77.3568,"intercepts":19,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Bakes","team":"red","ping":44,"goals":1,"own_goals":0,"assists":0,"touches":43,"passes":24,"losses":18,"carrytime":65.8596,"intercepts":18,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Kyp","team":"red","ping":44,"goals":0,"own_goals":0,"assists":0,"touches":36,"passes":20,"losses":15,"carrytime":49.8770,"intercepts":23,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":1,"chances":0}
+,{"ip":"1.2.3.4","name":"Argon","team":"red","ping":92,"goals":0,"own_goals":0,"assists":0,"touches":23,"passes":16,"losses":7,"carrytime":21.7749,"intercepts":14,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Mr.Scrubs","team":"red","ping":52,"goals":8,"own_goals":0,"assists":0,"touches":43,"passes":18,"losses":17,"carrytime":68.2030,"intercepts":15,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"e!","team":"red","ping":48,"goals":2,"own_goals":0,"assists":0,"touches":47,"passes":23,"losses":22,"carrytime":84.5017,"intercepts":21,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Zyzzyvas","team":"blue","ping":104,"goals":1,"own_goals":0,"assists":0,"touches":45,"passes":28,"losses":16,"carrytime":70.8210,"intercepts":9,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"bfp.OLD","team":"blue","ping":76,"goals":0,"own_goals":0,"assists":0,"touches":45,"passes":34,"losses":11,"carrytime":85.6992,"intercepts":28,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Elioca","team":"red","ping":76,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+]}

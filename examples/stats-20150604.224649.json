@@ -1,0 +1,9 @@
+{"red_score":4,"blue_score":12, "players":[
+{"ip":"1.2.3.4","name":"drivvy","team":"red","ping":24,"goals":0,"own_goals":0,"assists":0,"touches":4,"passes":4,"losses":0,"carrytime":0.8203,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Mmmmmmmmmmmmmm","team":"red","ping":76,"goals":0,"own_goals":1,"assists":0,"touches":39,"passes":3,"losses":34,"carrytime":20.6270,"intercepts":32,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":1,"chances":0}
+,{"ip":"1.2.3.4","name":"RougeSpy","team":"red","ping":52,"goals":1,"own_goals":0,"assists":0,"touches":28,"passes":16,"losses":11,"carrytime":63.9375,"intercepts":17,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"kmach","team":"red","ping":52,"goals":1,"own_goals":0,"assists":0,"touches":7,"passes":1,"losses":5,"carrytime":10.9688,"intercepts":5,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Shake","team":"blue","ping":60,"goals":3,"own_goals":0,"assists":0,"touches":66,"passes":15,"losses":48,"carrytime":46.3359,"intercepts":47,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Vendetta48","team":"blue","ping":28,"goals":5,"own_goals":0,"assists":0,"touches":125,"passes":20,"losses":102,"carrytime":111.3516,"intercepts":112,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Revan","team":"blue","ping":48,"goals":1,"own_goals":0,"assists":0,"touches":46,"passes":38,"losses":7,"carrytime":9.0469,"intercepts":9,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+]}

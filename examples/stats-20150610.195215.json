@@ -1,0 +1,17 @@
+{"red_score":0,"blue_score":7, "players":[
+{"ip":"1.2.3.4","name":"Dotarp","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Welshy","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"rath","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"sketchliN","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Koneko","team":"red","ping":0,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Shake","team":"red","ping":60,"goals":0,"own_goals":0,"assists":0,"touches":40,"passes":19,"losses":21,"carrytime":45.2109,"intercepts":16,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Mr.Scrubs","team":"blue","ping":52,"goals":4,"own_goals":0,"assists":0,"touches":45,"passes":18,"losses":23,"carrytime":55.5234,"intercepts":18,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Kyp","team":"blue","ping":44,"goals":0,"own_goals":0,"assists":0,"touches":44,"passes":27,"losses":16,"carrytime":65.0156,"intercepts":30,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Argon","team":"blue","ping":108,"goals":0,"own_goals":0,"assists":0,"touches":33,"passes":16,"losses":17,"carrytime":43.6406,"intercepts":21,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Bakes","team":"blue","ping":44,"goals":1,"own_goals":0,"assists":0,"touches":43,"passes":26,"losses":16,"carrytime":55.9688,"intercepts":21,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"e!","team":"blue","ping":48,"goals":2,"own_goals":0,"assists":0,"touches":50,"passes":18,"losses":30,"carrytime":81.4922,"intercepts":20,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"hundredeighty7","team":"red","ping":56,"goals":0,"own_goals":0,"assists":0,"touches":45,"passes":26,"losses":19,"carrytime":63.9375,"intercepts":36,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"faux","team":"red","ping":56,"goals":0,"own_goals":0,"assists":0,"touches":59,"passes":36,"losses":23,"carrytime":94.4531,"intercepts":25,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"ChrisX2","team":"red","ping":44,"goals":0,"own_goals":0,"assists":0,"touches":51,"passes":24,"losses":27,"carrytime":87.6563,"intercepts":22,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Billjet","team":"red","ping":56,"goals":0,"own_goals":0,"assists":0,"touches":39,"passes":19,"losses":20,"carrytime":58.6406,"intercepts":11,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+]}

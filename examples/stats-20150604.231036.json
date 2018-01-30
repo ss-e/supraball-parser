@@ -1,0 +1,6 @@
+{"red_score":8,"blue_score":5, "players":[
+{"ip":"1.2.3.4","name":"Major Pickle","team":"red","ping":64,"goals":0,"own_goals":0,"assists":0,"touches":0,"passes":0,"losses":0,"carrytime":0.0000,"intercepts":0,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"Vendetta48","team":"blue","ping":28,"goals":2,"own_goals":0,"assists":0,"touches":163,"passes":4,"losses":157,"carrytime":54.3750,"intercepts":153,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"drivvy","team":"red","ping":24,"goals":5,"own_goals":0,"assists":0,"touches":217,"passes":28,"losses":184,"carrytime":64.3623,"intercepts":199,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":0,"chances":0}
+,{"ip":"1.2.3.4","name":"RougeSpy","team":"blue","ping":48,"goals":3,"own_goals":0,"assists":0,"touches":168,"passes":10,"losses":154,"carrytime":107.1094,"intercepts":164,"own_KOs":0,"enemy_KOs":0,"lines":0,"save_fails":1,"chances":0}
+]}
